@@ -1,5 +1,6 @@
-*This is a car racing game.
-*You can play this game with the help of keyboard.
+<ol>
+ <li>This is a car racing game.</li>
+<li>You can play this game with the help of keyboard.</li>
 *This game is totally build on python .
 *We are using a wonderful library especially designed for Developing game - "PYGAME".
 *You can use various button here like start, continue , restart , pause .etc.
