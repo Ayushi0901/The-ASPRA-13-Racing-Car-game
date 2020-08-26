@@ -1,4 +1,4 @@
-# The-ASPRA-13-Racing-Car-game
+# The ASPRA-13 Racing Car game
 <ul>
 <li>This is a car racing game.</li>
 <li>You can play this game with the help of keyboard.</li>
