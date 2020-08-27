@@ -20,6 +20,6 @@
  <ol>
   <li>python version 3.8  </li>
   <li>pygame installed in your (windows) computer </li>
-  <li>to run interminal type :-python game.py.</li>
+  <li>to run in terminal type :-python game.py.</li>
   </ol>
  </li>
