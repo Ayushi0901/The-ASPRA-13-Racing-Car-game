@@ -2,14 +2,14 @@
 <ul>
 <li>This is a car racing game.</li>
 <li>You can play this game with the help of keyboard.</li>
- <li>This game is totally build on python.</li>
+ <li>This game is totally built on python.</li>
  
-<li>We are using a wonderful library especially designed for Developing game - "PYGAME".</li>
-<li>You can use various button here like start, continue , restart , pause .etc.</li>
+<li>We are using a wonderful library especially designed for Developing a game - "PYGAME".</li>
+<li>You can use the various button here like start, continue , restart , pause .etc.</li>
 <li>The Basic Instruction -
  <ol>
-  <li> Do not touch the white lines side by side of the road , otherwise your game will over.</li>
-  <li> Do not touch any car crossing your car , otherwise your game will over.</li>
+  <li> Do not touch the side of the white line by side of the road, otherwise, your game will be over.</li>
+  <li> Do not touch any car crossing your car , otherwise your game will be over.</li>
   <li>After crossing 9 cars you will 1 level up in this game . </li>
   <li>10 Points is added every time , you crossed a car safely.</li>
   <li>you can pause the game whenever you want and you can continue your paused game.</li>
